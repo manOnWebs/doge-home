@@ -1,2 +1,2 @@
-# PenguinMod-Home
-A main home page with community projects and other content.
+# doge-home
+i don't know what i am doing
